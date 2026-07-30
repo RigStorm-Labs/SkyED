@@ -1,0 +1,6 @@
+{
+  "name": "SkyED",
+  "description": "SkyED is a digital branding and business growth agency helping startups, creators, and businesses build a professional identity through branding, websites, and complete business launch solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
